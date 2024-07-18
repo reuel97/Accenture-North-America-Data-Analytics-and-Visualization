@@ -31,7 +31,7 @@ Prepared a PowerPoint presentation to communicate key insights for the client an
 
 ## Result/ Presentation
 
- [Top_Performing_Categories_Analysis_Presentation_with_Charts.pptx]( https://github.com/reuel97/Accenture-North-America-Data-Analytics-and-Visualization/blob/main/Top_Performing_Categories_Analysis_Presentation_with_Charts.pptx.pptx)
+[Top_Performing_Categories_Analysis_Presentation_with_Charts.pdf](https://github.com/reuel97/Accenture-North-America-Data-Analytics-and-Visualization/blob/main/Top_Performing_Categories_Analysis_Presentation_with_Charts.pdf)
  
 ## Certification
 
